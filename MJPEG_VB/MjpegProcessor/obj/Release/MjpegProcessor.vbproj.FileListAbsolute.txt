@@ -1,0 +1,8 @@
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG_VB\MjpegProcessor\obj\Release\Resources.resources
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG_VB\MjpegProcessor\obj\Release\MjpegProcessor.vbproj.GenerateResource.Cache
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\RELEASE\MjpegProcessor.dll
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\RELEASE\MjpegProcessor.pdb
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\RELEASE\MjpegProcessor.xml
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG_VB\MjpegProcessor\obj\Release\MjpegProcessor.dll
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG_VB\MjpegProcessor\obj\Release\MjpegProcessor.xml
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG_VB\MjpegProcessor\obj\Release\MjpegProcessor.pdb

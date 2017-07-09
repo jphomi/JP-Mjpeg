@@ -1,0 +1,14 @@
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG\MjpegProcessorTestSL4\Bin\Debug\MjpegProcessorTestSL4.dll
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG\MjpegProcessorTestSL4\Bin\Debug\MjpegProcessorTestSL4.pdb
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG\MjpegProcessorTestSL4\Bin\Debug\AppManifest.xaml
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG\MjpegProcessorTestSL4\Bin\Debug\MjpegProcessorTestSL4.xap
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG\MjpegProcessorTestSL4\Bin\Debug\MjpegProcessorTestSL4TestPage.html
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG\MjpegProcessorTestSL4\Bin\Debug\MjpegProcessorSL.dll
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG\MjpegProcessorTestSL4\Bin\Debug\MjpegProcessorSL.pdb
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG\MjpegProcessorTestSL4\obj\Debug\MjpegProcessorTestSL4.csprojResolveAssemblyReference.cache
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG\MjpegProcessorTestSL4\obj\Debug\App.g.cs
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG\MjpegProcessorTestSL4\obj\Debug\MainPage.g.cs
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG\MjpegProcessorTestSL4\obj\Debug\MjpegProcessorTestSL4.g.resources
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG\MjpegProcessorTestSL4\obj\Debug\MjpegProcessorTestSL4.dll
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG\MjpegProcessorTestSL4\obj\Debug\MjpegProcessorTestSL4.pdb
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG\MjpegProcessorTestSL4\obj\Debug\XapCacheFile.xml

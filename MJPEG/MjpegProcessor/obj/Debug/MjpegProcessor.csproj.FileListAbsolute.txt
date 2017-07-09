@@ -1,0 +1,5 @@
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG\MjpegProcessor\bin\Debug\MjpegProcessor.dll
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG\MjpegProcessor\bin\Debug\MjpegProcessor.pdb
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG\MjpegProcessor\obj\Debug\MjpegProcessor.csprojResolveAssemblyReference.cache
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG\MjpegProcessor\obj\Debug\MjpegProcessor.dll
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG\MjpegProcessor\obj\Debug\MjpegProcessor.pdb

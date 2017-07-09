@@ -1,0 +1,3 @@
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG_VB\MjpegProcessorTestWinForms\obj\x86\Release\MjpegProcessorTestWinForms.Form1.resources
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG_VB\MjpegProcessorTestWinForms\obj\x86\Release\MjpegProcessorTestWinForms.Resources.resources
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG_VB\MjpegProcessorTestWinForms\obj\x86\Release\MjpegProcessorTestWinForms.vbproj.GenerateResource.Cache

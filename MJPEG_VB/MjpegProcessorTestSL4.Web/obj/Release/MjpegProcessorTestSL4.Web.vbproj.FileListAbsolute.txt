@@ -1,0 +1,9 @@
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG_VB\MjpegProcessorTestSL4.Web\bin\MjpegProcessorTestSL4.Web.dll.config
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG_VB\MjpegProcessorTestSL4.Web\bin\MjpegProcessorTestSL4.Web.dll
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG_VB\MjpegProcessorTestSL4.Web\bin\MjpegProcessorTestSL4.Web.pdb
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG_VB\MjpegProcessorTestSL4.Web\bin\MjpegProcessorTestSL4.Web.xml
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG_VB\MjpegProcessorTestSL4.Web\obj\Release\MjpegProcessorTestSL4.Web.Resources.resources
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG_VB\MjpegProcessorTestSL4.Web\obj\Release\MjpegProcessorTestSL4.Web.vbproj.GenerateResource.Cache
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG_VB\MjpegProcessorTestSL4.Web\obj\Release\MjpegProcessorTestSL4.Web.dll
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG_VB\MjpegProcessorTestSL4.Web\obj\Release\MjpegProcessorTestSL4.Web.xml
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG_VB\MjpegProcessorTestSL4.Web\obj\Release\MjpegProcessorTestSL4.Web.pdb

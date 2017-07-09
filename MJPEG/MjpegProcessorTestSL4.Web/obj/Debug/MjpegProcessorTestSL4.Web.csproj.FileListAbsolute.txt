@@ -1,0 +1,6 @@
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG\MjpegProcessorTestSL4.Web\bin\MjpegProcessorTestSL4.Web.dll.config
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG\MjpegProcessorTestSL4.Web\bin\MjpegProcessorTestSL4.Web.dll
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG\MjpegProcessorTestSL4.Web\bin\MjpegProcessorTestSL4.Web.pdb
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG\MjpegProcessorTestSL4.Web\obj\Debug\MjpegProcessorTestSL4.Web.csprojResolveAssemblyReference.cache
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG\MjpegProcessorTestSL4.Web\obj\Debug\MjpegProcessorTestSL4.Web.dll
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG\MjpegProcessorTestSL4.Web\obj\Debug\MjpegProcessorTestSL4.Web.pdb

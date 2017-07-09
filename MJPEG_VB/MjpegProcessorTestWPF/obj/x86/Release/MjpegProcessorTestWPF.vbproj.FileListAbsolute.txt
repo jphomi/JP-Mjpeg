@@ -1,0 +1,7 @@
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG_VB\MjpegProcessorTestWPF\obj\x86\Release\MainWindow.baml
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG_VB\MjpegProcessorTestWPF\obj\x86\Release\MainWindow.g.vb
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG_VB\MjpegProcessorTestWPF\obj\x86\Release\Application.g.vb
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG_VB\MjpegProcessorTestWPF\obj\x86\Release\MjpegProcessorTestWPF_MarkupCompile.cache
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG_VB\MjpegProcessorTestWPF\obj\x86\Release\MjpegProcessorTestWPF.g.resources
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG_VB\MjpegProcessorTestWPF\obj\x86\Release\MjpegProcessorTestWPF.Resources.resources
+C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG_VB\MjpegProcessorTestWPF\obj\x86\Release\MjpegProcessorTestWPF.vbproj.GenerateResource.Cache
