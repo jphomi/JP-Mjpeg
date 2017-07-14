@@ -66,20 +66,18 @@ Namespace MjpegProcessor
             Dim user As String = ""
             Dim pswd As String = ""
             'recherche si mot de passe dans url du type http://user:password@192.168.0.0/.....
-            If InStr(url, ":") And InStr(url, "@") Then
-                Dim s As String = Mid(url, InStr(url, "//") + 2, Len(url))
-                s = Mid(s, 1, InStr(s, "@") - 1)
-                user = Mid(s, 1, InStr(s, ":") - 1)
-                pswd = Mid(s, InStr(s, ":") + 1, Len(s))
-                url = Mid(url, 1, InStr(url, "//") + 1) & Mid(url, InStr(url, "@") + 1, Len(url))
+            If InStr(":", url) And InStr("@", url) Then
+                Dim s As String = Mid(url, InStr(url, "//") + 2, InStr(":", url) - 1)
+                user = Mid(s, 1, InStr(":", s) - 1)
+                pswd = Mid(s, InStr(":", s) + 1, InStr("@", url) - 1)
+                url = Mid(url, 1, InStr("//", url) + 2) & Mid(url, InStr("@", url) + 1, Len(url))
             End If
-
 #If SILVERLIGHT Then
 			HttpWebRequest.RegisterPrefix("http://", WebRequestCreator.ClientHttp)
 #End If
             Dim request = CType(HttpWebRequest.Create(uri), HttpWebRequest)
             If user <> "" Then
-                request.Credentials = New NetworkCredential(user, pswd)
+
             End If
 #If SILVERLIGHT Then
 			' start the stream immediately

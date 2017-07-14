@@ -83,6 +83,7 @@
     <Import Include="System.Linq" />
     <Import Include="System.Collections.Generic" />
     <Import Include="System.Net" />
+    <Import Include="System.Xaml" />
     <Import Include="System.Xml" />
     <Import Include="System.Windows" />
     <Import Include="System.Windows.Controls" />
@@ -98,6 +99,9 @@
       <Link>MjpegDecoder.vb</Link>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Silverlight\$(SilverlightVersion)\Microsoft.Silverlight.VisualBasic.targets" />
   <ProjectExtensions>

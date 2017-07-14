@@ -21,7 +21,7 @@
     <ThrowErrorsInValidation>true</ThrowErrorsInValidation>
     <MyType>Empty</MyType>
     <FileUpgradeFlags>40</FileUpgradeFlags>
-    <UpgradeBackupLocation>C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG_VB\Backup1\</UpgradeBackupLocation>
+    <UpgradeBackupLocation>C:\Users\mll\Documents\GitHub\JP-Mjpeg\MJPEG_VB\Backup3\</UpgradeBackupLocation>
     <OldToolsVersion>4.0</OldToolsVersion>
   </PropertyGroup>
   <!-- This property group is only here to support building this project using the 
